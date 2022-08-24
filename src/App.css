@@ -1,0 +1,16 @@
+button{
+  padding: 12px 20px;
+  background: purple;
+  color: #fff;
+  border: 2px solid plum;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
